@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ab85c52-db66-4e65-97b4-e189a0054d68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frontend/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productcatalog/src/main/java/com/ecom/productcatalog/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productcatalog/src/main/java/com/ecom/productcatalog/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productcatalog/src/main/java/com/ecom/productcatalog/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productcatalog/src/main/java/com/ecom/productcatalog/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productcatalog/src/main/java/com/ecom/productcatalog/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productcatalog/src/main/java/com/ecom/productcatalog/model/Product.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vinishsamuel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vinishsamuel/Ecommerce-StoreFront",
+    "accountId": "ebc664c0-a46b-4771-9a5d-ad52618135de"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3KPZQ2lX882clDWTQJ35UxdhG3j" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HELLO/Desktop/Ecommerce StoreFront/Frontend React"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab85c52-db66-4e65-97b4-e189a0054d68" name="Changes" comment="" />
+      <created>1791461144125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791461144125</updated>
+    </task>
+    <servers />
+  </component>
+</project>
